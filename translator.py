@@ -1,4 +1,4 @@
-mport urllib, os
+import urllib, os
 import certifi
 from googletrans import Translator
 from gtts import gTTS
